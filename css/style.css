@@ -15,15 +15,10 @@ body{
 .answers {
     margin-bottom: 20px;
 }
-#logo {
-
-}
 
 hr {
-	width: 15%;
-    justify-content: center;
-    text-align: center;
-    margin: 5% auto;
+	width: 1%;
+    margin: 2% auto;
     border:2px solid #997c7c;
 }
 
